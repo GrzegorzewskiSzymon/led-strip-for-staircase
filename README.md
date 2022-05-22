@@ -1,1 +1,1 @@
-# led-strip-for-staircase
+# controlled-led-strip-for-staircase
